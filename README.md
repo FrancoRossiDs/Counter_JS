@@ -1,2 +1,19 @@
-# Counter_JS
-While i was studying JS this is one the project i tumble upon, small counter using JavaScript
+# Counter Project
+
+A simple [counter web application](https://francorossids.github.io/Counter_JS/) with increment, decrement, reset, and random features.
+
+## Table of Contents
+
+- [Description](#description)
+- [Screenshots](#screenshots)
+
+## Description
+
+This project is a basic counter application built with HTML, CSS, and JavaScript. It allows users to increment, decrement, reset, and generate a random number within a specified range (Positive numbers only).
+
+## Screenshots
+
+![image](https://github.com/FrancoRossiDs/Counter_JS/assets/90211516/e262ba88-d875-4fd0-9180-00c4dadc780d)
+
+
+
