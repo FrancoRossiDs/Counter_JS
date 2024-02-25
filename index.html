@@ -3,20 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Link to external CSS file -->
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="./images/icon.png" type="image/x-icon">
+    <!-- Link to favicon -->
+    <link rel="shortcut icon" href="/images/icon.png" type="image/x-icon">
     <title>Counter</title>
 </head>
 <body>
+    <!-- Container with a counter label, buttons, and a random button -->
     <div id="border">
         <label id="count">0</label><br>
         <div id="buttonContainer">
-        <button id="decrementBtn" class="buttons">Decrease</button>
-        <button id="resetBtn" class="buttons">Reset</button>
-        <button id="incrementBtn" class="buttons">Increase</button>
+            <!-- Buttons for incrementing, resetting, and decrementing -->
+            <button id="decrementBtn" class="buttons">Decrease</button>
+            <button id="resetBtn" class="buttons">Reset</button>
+            <button id="incrementBtn" class="buttons">Increase</button>
         </div>
+        <!-- Button for generating a random number -->
         <button id="randomBtn" class="buttons random">Random</button>
     </div>
+    <!-- Include external JavaScript file -->
     <script src="script.js"></script>
 </body>
 </html>
