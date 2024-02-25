@@ -1,15 +1,11 @@
 # Counter Project
 
-A simple counter web application with increment, decrement, reset, and random features.
+A simple [counter web application](https://francorossids.github.io/Counter_JS/) with increment, decrement, reset, and random features.
 
 ## Table of Contents
 
 - [Description](#description)
 - [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
